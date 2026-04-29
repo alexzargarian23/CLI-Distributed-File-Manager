@@ -35,7 +35,6 @@ public class Project {
         }
     }
 
-
     public boolean isMember(String userId) {
         return memberUserIds.contains(userId);
     }
